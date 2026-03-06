@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-This project is developed by a student team for the Mobile Application Development course.
-The goal of the application is to solve common problems faced by dormitory students when ordering food through Facebook groups, such as difficulty searching for food posts, unreliable reviews, and lack of transparent vendor information.
+This  is a student team for the Mobile Application Development course.
+The goal of the team is to solve common problems faced by dormitory students when ordering food through Facebook groups, such as difficulty searching for food posts, unreliable reviews, and lack of transparent vendor information.
 
-The application provides a platform where students can:
+We provides a platform where students can:
 
 * Search and categorize food vendors and dishes easily
 * Share honest reviews and ratings about food quality and service
